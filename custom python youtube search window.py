@@ -1,3 +1,6 @@
+"""im tired of youtube recommending me a bunch of garbage, so i created this script to  
+    bypass seeing junk on youtube's home screen and get straight to what i want"""
+
 from tkinter import *
 import webbrowser
 
